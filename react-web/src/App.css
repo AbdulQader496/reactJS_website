@@ -76,6 +76,11 @@ nav{
 main {
   padding: 15px 27px;
   color: aliceblue;
+  background-image:url("../src/images/logo192.png") ;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 150px;
+
 }
 
 .main-title {
@@ -97,3 +102,4 @@ main {
 .main-unordList > li::marker{
   color: #61DAFB;
 }
+

@@ -1,6 +1,7 @@
 import React from "react";
 import imageOfReact from "../images/icons8-react-128.png"
 
+
 export default function Navbar() {
     return (
         <nav>
